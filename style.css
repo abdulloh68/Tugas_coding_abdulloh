@@ -1,0 +1,10 @@
+.box1{
+    margin: 000px auto;
+    text-align: center;
+    width: 600px;
+    height: 790px;
+    padding-top: 250px;
+    padding-bottom: 40px;
+
+    background-color: rgb(48, 124, 124);
+}
